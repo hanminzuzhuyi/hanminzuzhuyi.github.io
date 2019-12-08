@@ -19,7 +19,6 @@
 
 
 
-
 <meta http-equiv="Cache-Control" content="no-transform" />
 <meta http-equiv="Cache-Control" content="no-siteapp" />
 
@@ -79,17 +78,18 @@
 
 
 
-<meta name="description" content="红绿教一体 前后清一体">
+
+<meta name="description" content="红绿教一体 前后清一体            &#x2F;&#x2F; 基于准备好的dom，初始化echarts实例         var myChart = echarts.init(document.getElementById(&amp;apos;echarts7520&amp;apos;));         &#x2F;&#x2F; 指定图表的配置项和数据         var option = data = { 	children: [ 		{ 			na">
 <meta name="keywords" content="一共黑料">
 <meta property="og:type" content="article">
 <meta property="og:title" content="红绿教一体 前后清一体">
 <meta property="og:url" content="https:&#x2F;&#x2F;hanminzuzhuyi.github.io&#x2F;2019&#x2F;12&#x2F;03&#x2F;%E7%BA%A2%E7%BB%BF%E6%95%99%E4%B8%80%E4%BD%93-%E5%89%8D%E5%90%8E%E6%B8%85%E4%B8%80%E4%BD%93&#x2F;index.html">
 <meta property="og:site_name" content="汉民族主义">
-<meta property="og:description" content="红绿教一体 前后清一体">
+<meta property="og:description" content="红绿教一体 前后清一体            &#x2F;&#x2F; 基于准备好的dom，初始化echarts实例         var myChart = echarts.init(document.getElementById(&amp;apos;echarts7520&amp;apos;));         &#x2F;&#x2F; 指定图表的配置项和数据         var option = data = { 	children: [ 		{ 			na">
 <meta property="og:locale" content="zh-CN">
 <meta property="og:image" content="https:&#x2F;&#x2F;hanminzuzhuyi.github.io&#x2F;2019&#x2F;12&#x2F;03&#x2F;%E7%BA%A2%E7%BB%BF%E6%95%99%E4%B8%80%E4%BD%93-%E5%89%8D%E5%90%8E%E6%B8%85%E4%B8%80%E4%BD%93&#x2F;1.png">
 <meta property="og:image" content="https:&#x2F;&#x2F;hanminzuzhuyi.github.io&#x2F;2019&#x2F;12&#x2F;03&#x2F;%E7%BA%A2%E7%BB%BF%E6%95%99%E4%B8%80%E4%BD%93-%E5%89%8D%E5%90%8E%E6%B8%85%E4%B8%80%E4%BD%93&#x2F;2.png">
-<meta property="og:updated_time" content="2019-12-03T11:29:18.464Z">
+<meta property="og:updated_time" content="2019-12-03T20:57:23.504Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="https:&#x2F;&#x2F;hanminzuzhuyi.github.io&#x2F;2019&#x2F;12&#x2F;03&#x2F;%E7%BA%A2%E7%BB%BF%E6%95%99%E4%B8%80%E4%BD%93-%E5%89%8D%E5%90%8E%E6%B8%85%E4%B8%80%E4%BD%93&#x2F;1.png">
 
@@ -345,7 +345,87 @@
       
         <p><img src="1.png" alt="png"><br>红绿教一体</p>
 <p><img src="2.png" alt="png"><br>前后清一体</p>
+<div id="echarts7520" style="width: 85%;height: 400px;margin: 0 auto"></div>
+<script src="https://cdn.bootcss.com/echarts/4.4.0-rc.1/echarts.min.js"></script>
+<script type="text/javascript">
+        // 基于准备好的dom，初始化echarts实例
+        var myChart = echarts.init(document.getElementById('echarts7520'));
+        // 指定图表的配置项和数据
+        var option = data = {
+	children: [
+		{
+			name: '根本共同点--本质上都是亚伯拉罕一神教'
+		},
+		{
+			children: [
+				{
+					name: 'Apple',
+					value: 456
+				}
+			],
+			name: '共同点之宗教教义'
+		},
+		{
+			children: [
+				{
+					name: '穆斯林在我国享有诸多特权\n从前30年的不打回民土豪/回民特供牛羊肉\n到后四十年的高考公考加分/牛羊肉补贴/打人不犯法/杀人不敢管/清真泛化\n穆斯林可以说是后清政权中真正的贵族一等人',
+					value: 456
+				}
+			],
+			name: '现实中的苟合'
+		}
+	],
+	name: '红绿教一体'
+};
+echarts.util.each(data.children, function (datum, index) {
+    index % 2 === 0 && (datum.collapsed = true);
+});
 
+myChart.setOption(option = {
+    tooltip: {
+        trigger: 'item',
+        triggerOn: 'mousemove'
+    },
+    series: [
+        {
+            type: 'tree',
+
+            data: [data],
+
+            top: '1%',
+            left: '7%',
+            bottom: '1%',
+            right: '20%',
+
+            symbolSize: 10,
+
+            label: {
+                normal: {
+                    position: 'left',
+                    verticalAlign: 'middle',
+                    align: 'right',
+                    fontSize: 14
+                }
+            },
+            leaves: {
+                label: {
+                    normal: {
+                        position: 'right',
+                        verticalAlign: 'middle',
+                        align: 'left'
+                    }
+                }
+            },
+
+            expandAndCollapse: true,
+            animationDuration: 550,
+            animationDurationUpdate: 750
+        }
+    ]
+});
+        // 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+</script>
       
     </div>
     
@@ -695,5 +775,5 @@
 
   
 
-<script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/live2dw/assets/shizuku.model.json"},"display":{"position":"left","width":170,"height":340},"mobile":{"show":false},"log":false});</script></body>
+<script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/live2dw/assets/hijiki.model.json"},"display":{"position":"left","width":170,"height":340},"mobile":{"show":false},"log":false});</script></body>
 </html>
