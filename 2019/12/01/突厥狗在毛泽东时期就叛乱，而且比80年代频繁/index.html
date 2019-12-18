@@ -350,6 +350,16 @@
 
           
             
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2019/12/01/%E7%AA%81%E5%8E%A5%E7%8B%97%E5%9C%A8%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%97%B6%E6%9C%9F%E5%B0%B1%E5%8F%9B%E4%B9%B1%EF%BC%8C%E8%80%8C%E4%B8%94%E6%AF%9480%E5%B9%B4%E4%BB%A3%E9%A2%91%E7%B9%81/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count gitment-comments-count" data-xid="/2019/12/01/%E7%AA%81%E5%8E%A5%E7%8B%97%E5%9C%A8%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%97%B6%E6%9C%9F%E5%B0%B1%E5%8F%9B%E4%B9%B1%EF%BC%8C%E8%80%8C%E4%B8%94%E6%AF%9480%E5%B9%B4%E4%BB%A3%E9%A2%91%E7%B9%81/" itemprop="commentsCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -533,6 +543,13 @@
 
 
           
+
+  
+    <div class="comments" id="comments">
+      
+        <div id="gitment-container"></div>
+      
+    </div>
 
   
 
@@ -789,6 +806,43 @@
 
 
 
+
+
+<!-- LOCAL: You can save these files to your site and update links -->
+    
+        
+        <link rel="stylesheet" href="https://aimingoo.github.io/gitmint/style/default.css">
+        <script src="https://aimingoo.github.io/gitmint/dist/gitmint.browser.js"></script>
+    
+<!-- END LOCAL -->
+
+    
+
+    
+      <script type="text/javascript">
+      function renderGitment(){
+        var gitment = new Gitmint({
+            id: window.location.pathname, 
+            owner: 'getsomethingback',
+            repo: '汉民族主义评论',
+            
+            lang: "" || navigator.language || navigator.systemLanguage || navigator.userLanguage,
+            
+            oauth: {
+            
+            
+                client_secret: '512a0e049ff7a6587cc4926e8692e39a376dcb39',
+            
+                client_id: '58074fcbaa9e5c0e42c3'
+            }});
+        gitment.render('gitment-container');
+      }
+
+      
+      renderGitment();
+      
+      </script>
+    
 
 
 
@@ -1135,5 +1189,5 @@
 
   
 
-<script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/live2dw/assets/hijiki.model.json"},"display":{"position":"left","width":170,"height":340},"mobile":{"show":false},"log":false});</script></body>
+</body>
 </html>
