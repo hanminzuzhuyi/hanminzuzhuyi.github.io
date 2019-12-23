@@ -60,6 +60,13 @@
 <p><a href="/file/yigong/1978－2013农村家庭纯收入与城镇家庭可支配收入.xlsx" target="_blank">1978－2013农村家庭纯收入与城镇家庭可支配收入.xlsx</a></p>
 <p><a href="/file/yigong/《长征中的政治斗争：是非曲直》作者：文显堂.txt" target="_blank">《长征中的政治斗争：是非曲直》作者：文显堂.txt</a></p>
 <p><a href="/file/yigong/《刘少奇秘密访苏资料》.pdf" target="_blank">《刘少奇秘密访苏资料》.pdf</a></p>
+<p><a href="/file/yigong/1966至1978年时期的辽宁工业_黄伟.pdf" target="_blank">1966至1978年时期的辽宁工业_黄伟.pdf</a></p>
+<p><a href="/file/yigong/2018-12-12_社会主义与“清真”.pdf" target="_blank">2018-12-12_社会主义与“清真”.pdf</a></p>
+<p><a href="/file/yigong/第十二章___文化大革命_十年的经济工作_.pdf" target="_blank">第十二章<em>__文化大革命_十年的经济工作</em>.pdf</a></p>
+<p><a href="/file/yigong/倮区汉奴吁天录.rar" target="_blank">倮区汉奴吁天录.rar</a></p>
+<p><a href="/file/yigong/毛泽东浮夸风.txt" target="_blank">毛泽东浮夸风.txt</a></p>
+<p><a href="/file/yigong/沈志華 - 最後的「天朝」_ 毛澤東、金日成與中朝關係 (1945-1976)-香港中文大學出版社 (2017).mobi" target="_blank">沈志華 - 最後的「天朝」_ 毛澤東、金日成與中朝關係 (1945-1976)-香港中文大學出版社 (2017).mobi</a></p>
+<p><a href="/file/yigong/苏联攻破柏林恶行 苏联军强奸东北妇女.txt" target="_blank">苏联攻破柏林恶行 苏联军强奸东北妇女.txt</a></p>
 ]]></content>
       <categories>
         <category>历史</category>
@@ -1181,11 +1188,11 @@
     <content><![CDATA[<p>红绿教一体<br><img src="1.png" alt="png"></p>
 <p>前后清一体<br><img src="2.png" alt="png"></p>
 <p><strong>看不到的部分用鼠标拖拽一下，鼠标滚轮可以缩放，实心节点可以点开</strong></p>
-<div id="echarts5263" style="width: 100%;height: 800px;margin: 0 auto"></div>
+<div id="echarts1327" style="width: 100%;height: 800px;margin: 0 auto"></div>
 <script src="https://cdn.bootcss.com/echarts/4.4.0-rc.1/echarts.min.js"></script>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts5263'));
+        var myChart = echarts.init(document.getElementById('echarts1327'));
         // 指定图表的配置项和数据
         var option = data = {
 	children: [
@@ -1585,11 +1592,11 @@ myChart.setOption(option = {
 </script>
 
 
-<div id="echarts1911" style="width: 100%;height: 800px;margin: 0 auto"></div>
+<div id="echarts3323" style="width: 100%;height: 800px;margin: 0 auto"></div>
 <script src="https://cdn.bootcss.com/echarts/4.4.0-rc.1/echarts.min.js"></script>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts1911'));
+        var myChart = echarts.init(document.getElementById('echarts3323'));
         // 指定图表的配置项和数据
         var option = data = {
 	children: [
