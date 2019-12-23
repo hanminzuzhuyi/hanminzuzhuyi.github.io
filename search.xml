@@ -4,8 +4,8 @@
     <title>图书列表</title>
     <url>/2019/12/20/%E5%9B%BE%E4%B9%A6%E5%88%97%E8%A1%A8/</url>
     <content><![CDATA[<p><strong>大跃进 + 三年毛灾：</strong></p>
-<p><a href="/file/yigong/dayuejin/_大跃进_引起的人口变动_李成瑞.pdf" target="_blank">_大跃进_引起的人口变动_李成瑞.pdf</a></p>
-<p><a href="/file/yigong/dayuejin/_大跃进_运动与中国1958_1_省略_荒_集权体制下的国家_集体与农民_刘愿.pdf" target="_blank">_大跃进_运动与中国1958_1_省略<em>荒</em>集权体制下的国家_集体与农民_刘愿.pdf</a></p>
+<p><a href="/file/yigong/dayuejin/大跃进_引起的人口变动_李成瑞.pdf" target="_blank">大跃进_引起的人口变动_李成瑞.pdf</a></p>
+<p><a href="/file/yigong/dayuejin/大跃进_运动与中国1958_1_省略_荒_集权体制下的国家_集体与农民_刘愿.pdf" target="_blank">大跃进_运动与中国1958_1_省略<em>荒</em>集权体制下的国家_集体与农民_刘愿.pdf</a></p>
 <p><a href="/file/yigong/dayuejin/1959_1961年中国的人口死亡及其成因_曹树基.pdf" target="_blank">1959_1961年中国的人口死亡及其成因_曹树基.pdf</a></p>
 <p><a href="/file/yigong/dayuejin/三年困难时期城乡饥荒差异的粮食政策分析_辛逸.pdf" target="_blank">三年困难时期城乡饥荒差异的粮食政策分析_辛逸.pdf</a></p>
 <p><a href="/file/yigong/dayuejin/为何1959_1961年大饥荒终结于1962年_范子英.pdf" target="_blank">为何1959_1961年大饥荒终结于1962年_范子英.pdf</a></p>
@@ -1188,11 +1188,11 @@
     <content><![CDATA[<p>红绿教一体<br><img src="1.png" alt="png"></p>
 <p>前后清一体<br><img src="2.png" alt="png"></p>
 <p><strong>看不到的部分用鼠标拖拽一下，鼠标滚轮可以缩放，实心节点可以点开</strong></p>
-<div id="echarts1327" style="width: 100%;height: 800px;margin: 0 auto"></div>
+<div id="echarts5306" style="width: 100%;height: 800px;margin: 0 auto"></div>
 <script src="https://cdn.bootcss.com/echarts/4.4.0-rc.1/echarts.min.js"></script>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts1327'));
+        var myChart = echarts.init(document.getElementById('echarts5306'));
         // 指定图表的配置项和数据
         var option = data = {
 	children: [
@@ -1592,11 +1592,11 @@ myChart.setOption(option = {
 </script>
 
 
-<div id="echarts3323" style="width: 100%;height: 800px;margin: 0 auto"></div>
+<div id="echarts9157" style="width: 100%;height: 800px;margin: 0 auto"></div>
 <script src="https://cdn.bootcss.com/echarts/4.4.0-rc.1/echarts.min.js"></script>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts3323'));
+        var myChart = echarts.init(document.getElementById('echarts9157'));
         // 指定图表的配置项和数据
         var option = data = {
 	children: [
