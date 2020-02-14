@@ -69,7 +69,9 @@
 <p><img src="51.png" alt="png"></p>
 <p><img src="52.png" alt="png"></p>
 <p><img src="53.png" alt="png"></p>
-]]></content>
+<a href="/2020/02/14/冉吹看了沉默，冉黑看了流泪-对冉闵的正本清源（下）/"  rel="next" title="冉吹看了沉默，冉黑看了流泪-对冉闵的正本清源（下）">
+                <i class="fa fa-chevron-left"></i> 冉吹看了沉默，冉黑看了流泪-对冉闵的正本清源（下）
+              </a>]]></content>
       <categories>
         <category>汉民族主义</category>
       </categories>
@@ -253,7 +255,9 @@
 <p><img src="26.png" alt="png"></p>
 <p><img src="27.png" alt="png"></p>
 <p><img src="28.png" alt="png"></p>
-]]></content>
+<a href="/2020/02/14/冉吹看了沉默，冉黑看了流泪-对冉闵的正本清源（中）/" rel="next" title="冉吹看了沉默，冉黑看了流泪-对冉闵的正本清源（中）">
+                <i class="fa fa-chevron-left"></i> 冉吹看了沉默，冉黑看了流泪-对冉闵的正本清源（中）
+              </a>]]></content>
       <categories>
         <category>汉民族主义</category>
       </categories>
@@ -1631,11 +1635,11 @@
     <content><![CDATA[<p>红绿教一体<br><img src="1.png" alt="png"></p>
 <p>前后清一体<br><img src="2.png" alt="png"></p>
 <p><strong>看不到的部分用鼠标拖拽一下，鼠标滚轮可以缩放，实心节点可以点开</strong></p>
-<div id="echarts9331" style="width: 100%;height: 800px;margin: 0 auto"></div>
+<div id="echarts9163" style="width: 100%;height: 800px;margin: 0 auto"></div>
 <script src="https://cdn.bootcss.com/echarts/4.4.0-rc.1/echarts.min.js"></script>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts9331'));
+        var myChart = echarts.init(document.getElementById('echarts9163'));
         // 指定图表的配置项和数据
         var option = data = {
 	children: [
@@ -2035,11 +2039,11 @@ myChart.setOption(option = {
 </script>
 
 
-<div id="echarts6795" style="width: 100%;height: 800px;margin: 0 auto"></div>
+<div id="echarts119" style="width: 100%;height: 800px;margin: 0 auto"></div>
 <script src="https://cdn.bootcss.com/echarts/4.4.0-rc.1/echarts.min.js"></script>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts6795'));
+        var myChart = echarts.init(document.getElementById('echarts119'));
         // 指定图表的配置项和数据
         var option = data = {
 	children: [
