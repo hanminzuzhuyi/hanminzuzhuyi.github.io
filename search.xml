@@ -1615,11 +1615,11 @@
     <content><![CDATA[<p>红绿教一体<br><img src="1.png" alt="png"></p>
 <p>前后清一体<br><img src="2.png" alt="png"></p>
 <p><strong>看不到的部分用鼠标拖拽一下，鼠标滚轮可以缩放，实心节点可以点开</strong></p>
-<div id="echarts281" style="width: 100%;height: 800px;margin: 0 auto"></div>
+<div id="echarts5801" style="width: 100%;height: 800px;margin: 0 auto"></div>
 <script src="https://cdn.bootcss.com/echarts/4.4.0-rc.1/echarts.min.js"></script>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts281'));
+        var myChart = echarts.init(document.getElementById('echarts5801'));
         // 指定图表的配置项和数据
         var option = data = {
 	children: [
@@ -2019,11 +2019,11 @@ myChart.setOption(option = {
 </script>
 
 
-<div id="echarts8158" style="width: 100%;height: 800px;margin: 0 auto"></div>
+<div id="echarts5671" style="width: 100%;height: 800px;margin: 0 auto"></div>
 <script src="https://cdn.bootcss.com/echarts/4.4.0-rc.1/echarts.min.js"></script>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts8158'));
+        var myChart = echarts.init(document.getElementById('echarts5671'));
         // 指定图表的配置项和数据
         var option = data = {
 	children: [
