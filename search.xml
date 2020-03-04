@@ -514,6 +514,8 @@
 <p><a href="/file/yigong/毛泽东浮夸风.txt" target="_blank">毛泽东浮夸风.txt</a></p>
 <p><a href="/file/yigong/沈志華 - 最後的「天朝」_ 毛澤東、金日成與中朝關係 (1945-1976)-香港中文大學出版社 (2017).mobi" target="_blank">沈志華 - 最後的「天朝」_ 毛澤東、金日成與中朝關係 (1945-1976)-香港中文大學出版社 (2017).mobi</a></p>
 <p><a href="/file/yigong/苏联攻破柏林恶行 苏联军强奸东北妇女.txt" target="_blank">苏联攻破柏林恶行 苏联军强奸东北妇女.txt</a></p>
+<p><a href="/file/yigong/周良霄、顾菊英《疯狂、扭曲与堕落的年代》.rar" target="_blank">周良霄、顾菊英《疯狂、扭曲与堕落的年代》.rar</a></p>
+<p><a href="/file/yigong/南方三年游击战争时期赣闽边区民众政治生存状态考察.pdf" target="_blank">南方三年游击战争时期赣闽边区民众政治生存状态考察.pdf</a></p>
 ]]></content>
       <categories>
         <category>历史</category>
@@ -1635,11 +1637,11 @@
     <content><![CDATA[<p>红绿教一体<br><img src="1.png" alt="png"></p>
 <p>前后清一体<br><img src="2.png" alt="png"></p>
 <p><strong>看不到的部分用鼠标拖拽一下，鼠标滚轮可以缩放，实心节点可以点开</strong></p>
-<div id="echarts9163" style="width: 100%;height: 800px;margin: 0 auto"></div>
+<div id="echarts9197" style="width: 100%;height: 800px;margin: 0 auto"></div>
 <script src="https://cdn.bootcss.com/echarts/4.4.0-rc.1/echarts.min.js"></script>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts9163'));
+        var myChart = echarts.init(document.getElementById('echarts9197'));
         // 指定图表的配置项和数据
         var option = data = {
 	children: [
@@ -2039,11 +2041,11 @@ myChart.setOption(option = {
 </script>
 
 
-<div id="echarts119" style="width: 100%;height: 800px;margin: 0 auto"></div>
+<div id="echarts6491" style="width: 100%;height: 800px;margin: 0 auto"></div>
 <script src="https://cdn.bootcss.com/echarts/4.4.0-rc.1/echarts.min.js"></script>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts119'));
+        var myChart = echarts.init(document.getElementById('echarts6491'));
         // 指定图表的配置项和数据
         var option = data = {
 	children: [
@@ -2863,7 +2865,35 @@ myChart.setOption(option = {
   <entry>
     <title>毛时代问题汇总</title>
     <url>/2019/12/03/%E6%AF%9B%E6%97%B6%E4%BB%A3%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<p><a href="/2019/11/30/外部资料索引页/" target="_blank">youtube视频资料索引页</a></p>
+<p><a href="/2019/11/29/1966-1976 文革时期中国经济问题-数据帝知乎回答/" target="_blank">文革时期中国经济问题-数据帝知乎回答</a></p>
+<p><a href="/2019/11/29/造成大跃进和大饥荒的主要原因-数据帝知乎回答/" target="_blank">造成大跃进和大饥荒的主要原因-数据帝知乎回答</a></p>
+<p><a href="/2019/11/30/毛泽东时代，上海市民只能吃到黄浦江里的死鱼/" target="_blank">毛泽东时代，上海市民只能吃到黄浦江里的死鱼</a></p>
+<p><a href="/2019/11/30/高华：鞍钢工人与鞍钢宪法/" target="_blank">高华：鞍钢工人与鞍钢宪法</a></p>
+<p><a href="/2019/11/30/宋永毅：非理性毛泽东，文革和他的情欲/" target="_blank">宋永毅：非理性毛泽东，文革和他的情欲</a></p>
+<p><a href="/2019/12/01/高华-大饥荒中的粮食食用增量法与代食品/" target="_blank">高华:大饥荒中的粮食食用增量法与代食品</a></p>
+<p><a href="/2019/12/01/人民公社的权力结构和乡村秩序-于建嵘/" target="_blank">人民公社的权力结构和乡村秩序-于建嵘</a></p>
+<p><a href="/2019/12/01/大饥荒到60年后进口欧美粮食并且粮食运给阿尔巴尼亚/" target="_blank">大饥荒到60年后进口欧美粮食并且粮食运给阿尔巴尼亚</a></p>
+<p><a href="/2019/12/01/突厥狗在毛泽东时期就叛乱，而且比80年代频繁/" target="_blank">突厥狗在毛泽东时期就叛乱，而且比80年代频繁</a></p>
+<p><a href="/2019/12/02/尹曙生：大跃进前后的社会控制/" target="_blank">尹曙生：大跃进前后的社会控制</a></p>
+<p><a href="/2019/12/02/周恩来历史上的各种言论/" target="_blank">周恩来历史上的各种言论</a></p>
+<p><a href="/2019/12/03/五十年代领导干部的工资住房轿车待遇（访谈）/" target="_blank">五十年代领导干部的工资住房轿车待遇（访谈）</a></p>
+<p><a href="/2019/12/03/改革开放以后领导人出国发现差距极大，英国只差共产党执政就是共产主义社会了/" target="_blank">改革开放以后领导人出国发现差距极大，英国只差共产党执政就是共产主义社会了</a></p>
+<p><a href="/2019/12/03/1959-1961年中国的人口死亡及其成因-曹树基/" target="_blank">1959-1961年中国的人口死亡及其成因 曹树基</a></p>
+<p><a href="/2019/12/03/毛泽东专用特供烟解密/" target="_blank">毛泽东专用特供烟解密</a></p>
+<p><a href="/2019/12/03/毛泽东开后门送女人上大学/" target="_blank">毛泽东开后门送女人上大学</a></p>
+<p><a href="/2019/12/03/毛泽东也搞食品特供-解密中央首长们的菜篮子/" target="_blank">毛泽东也搞食品特供?解密中央首长们的菜篮子</a></p>
+<p><a href="/2019/12/03/驻阿大使耿飚回忆：阿领导人的想法是你们有的，我们也要有/" target="_blank">驻阿大使耿飚回忆：阿领导人的想法是你们有的，我们也要有</a></p>
+<p><a href="/2019/12/03/公开揭毛泽东盖子的王明/" target="_blank">公开揭毛泽东盖子的王明</a></p>
+<p><a href="/2019/12/03/毛对印共承认麦克马洪线/" target="_blank">毛对印共承认麦克马洪线</a></p>
+<p><a href="/2019/12/03/红绿教一体-前后清一体/" target="_blank">红绿教一体 前后清一体</a></p>
+<p><a href="/2019/12/17/驳中国左派的种种谬论/" target="_blank">驳中国左派的种种谬论</a></p>
+<p><a href="/2019/12/17/毛主席到了徐水/" target="_blank">毛主席到了徐水</a></p>
+<p><a href="/2019/12/17/毛泽东反对统一/" target="_blank">毛泽东反对统一</a></p>
+<p><a href="/2019/12/17/毛泽东和计划生育/" target="_blank">毛泽东和计划生育</a></p>
+<p><a href="/2019/12/20/统计年鉴反应毛泽东时代的生活水平/" target="_blank">统计年鉴反应毛泽东时代的生活水平</a></p>
+<p><a href="/2019/12/20/图书列表/" target="_blank">图书列表/</a></p>
+]]></content>
       <categories>
         <category>历史</category>
       </categories>
